@@ -1,4 +1,4 @@
-# DAND-Project---Test-a-Perceptual-Phenomenon
+# DAND-Project-1---Test-a-Perceptual-Phenomenon
 
 DAND Project 1 - Test a Perceptual Phenomenon as part of learning GitHub Desktop
 
